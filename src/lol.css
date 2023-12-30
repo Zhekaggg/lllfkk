@@ -1,0 +1,55 @@
+.map{
+ width: 570px;
+ height: 400px;
+ border-radius: 20px;
+ margin-top:100px;
+ margin-left: 10px;
+}
+.qqw{
+    margin-left: 700px;
+    margin-top: -300px;
+}
+
+@media (max-width:900px) {
+    .map{
+        width: 94%;
+        height: 30%;
+        border-radius: 20px;
+        margin: 10px;
+       }
+       .qqw{
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+            align-items: center; /* Опционально: центрирует элементы по горизонтали */
+            text-align: center; 
+       
+       }
+}
+
+.frf{
+    /* ... */
+ display: flex;
+ align-items: center; /* Вертикальное выравнивание по центру */
+ justify-content: center; /* Горизонтальное выравнивание по центру */
+ /* ... */
+ margin-top: 300px;
+}
+.frf1 {
+   /* ... */
+display: flex;
+align-items: center; /* Вертикальное выравнивание по центру */
+justify-content: center; /* Горизонтальное выравнивание по центру */
+/* ... */
+
+}
+
+.frf2{
+   /* ... */
+display: flex;
+align-items: center; /* Вертикальное выравнивание по центру */
+justify-content: center; /* Горизонтальное выравнивание по центру */
+/* ... */
+
+}

@@ -1,0 +1,18 @@
+body {
+  background: url(./component/imger/jjj.png) center top no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+h2, .OK{
+  color: white; 
+  margin: 5%;
+}
+.zho{
+  left: 5%;
+}
+

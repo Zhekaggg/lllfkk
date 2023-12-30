@@ -1,0 +1,225 @@
+.pap {
+    display: flex;
+    margin: 50px;
+    justify-content: space-between; /* Равномерное распределение пространства между карточками */
+    flex-wrap: wrap; /* Перенос на новую строку при нехватке места */
+  }
+  @media (max-width:700px){.pap {
+    display: flex;
+    margin: 30px ;
+    justify-content: space-between; /* Равномерное распределение пространства между карточками */
+    flex-wrap: wrap; /* Перенос на новую строку при нехватке места */
+  }}
+.card1 {
+
+    width: 190px;
+    height: 220px;
+
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+     /* Adjust this value to move card1 to the right */
+  }
+  @media (max-width:900px) { .card1{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+    
+  }}
+
+
+  .card2 {
+
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+/* Adjust this value to move card1 to the right */
+  }
+  @media (max-width:900px) { .card2{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+  
+    margin-top: 50px;
+  }}
+
+  .card3 {
+
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+  }
+  @media (max-width:900px) { .card3{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+ 
+  
+  }}
+
+  .card4 {
+
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+
+  }
+  @media (max-width:900px) { .card4{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+  
+  
+  }}
+  .card5 {
+
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+ /* Adjust this value to move card1 to the right */
+  }
+  @media (max-width:900px) { .card5{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+  
+  
+  }}
+
+  .card6 {
+  
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+    /* Adjust this value to move card1 to the right */
+  }
+  @media (max-width:900px) { .card6{
+ 
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+ 
+  
+  }}
+  .card7{
+
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+ /* Adjust this value to move card1 to the right */
+  }
+  @media (max-width:900px) { .card7{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+
+  
+  }}
+
+  .card8{
+
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+  }
+  @media (max-width:900px) { .card8{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+ 
+  
+  }}
+  .card9{
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+   /* Adjust this value to move card1 to the right */
+  }
+  @media (max-width:900px) { .card9{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+   
+  
+  }}
+  .card10{
+
+    width: 190px;
+    height: 220px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+  /* Adjust this value to move card1 to the right */
+  }
+  @media (max-width:900px) { .card10{
+
+    width: 140px;
+    height: 180px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-top: 50px;
+ 
+  
+  }}
+  
